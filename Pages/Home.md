@@ -1,5 +1,5 @@
 1. [Google Cloud](gcloud)
-2. [Python](python.md)
-3. [Stack](stack.md)
-4. [BestPratices](bestpratices.md)
+2. [Python](python)
+3. [Stack](stack)
+4. [BestPratices](bestpratices)
 
