@@ -1,2 +1,2 @@
-- [home](index.md)
+- [home](home)
 - [12factor](https://12factor.net/)
