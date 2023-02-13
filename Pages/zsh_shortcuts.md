@@ -1,0 +1,3 @@
+- [tmux](./zsh/tmux)
+- [tmuxinator](./zsh/tmuxinator.md)
+- [git](./zsh/git.md)
