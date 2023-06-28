@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "7c555783ab90018a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b116d9de1c748b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50d135b1d0f9534e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/bestpratices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4017ebe6c2fa0039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa de Mercado Taubaté.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c8b434c501aa4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa de Mercado Taubaté.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2eb191708f7f9fc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fb36c0d78046560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5baa5e9c4d031a05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bd444f261ed711b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce8ccc1e7a77ee65",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9dc91bf2ab5e1e3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a474e18b99a8afd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04045422c27e95b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pesquisa de Mercado Taubaté.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9c009a2b6deadd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pesquisa de Mercado Taubaté.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cea364cb665c2d86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "915fb3a8132fdcf1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pesquisa de Mercado Taubaté.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5baa5e9c4d031a05",
+  "lastOpenFiles": [
+    "Pages/bestpratices.md",
+    "Pages/gcloud.md",
+    "Pages/github.md",
+    "Pages/google-maps.md"
+  ]
+}
